@@ -18,5 +18,3 @@
 
 ### Estudante com foco em desenvolvimento full stack, em constante aprendizado, aberto a críticas e sugestões!
 
-### Entre em contato:
-[![](  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto="joseildo.sfc@gmail.com")
